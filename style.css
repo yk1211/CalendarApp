@@ -1,0 +1,40 @@
+body{
+  font-family:Arial, sans-serif;
+  font-size:20px;
+}
+a{
+  text-decoration:none;
+}
+table{
+  margin:30px auto;
+  border:1px solid #ddd;
+  border-collapse: collapse;
+}
+tbody td{
+  border: 2px solid #ddd;
+}
+th{
+  background: #eee;
+}
+th,  td{
+  padding:18px;
+  text-align: center;
+}
+
+.week_0{
+  color: red;
+}
+.week_6{
+  color:blue;
+}
+.today{
+  font-size: 15px;
+  font-weight: bold;
+}
+.gray{
+  color:#dedede;
+}
+
+tfoot th{
+  font-size:15 px;
+}
